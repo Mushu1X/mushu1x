@@ -1,8 +1,4 @@
 
-<div id="header" align="center">
-  <img src="https://giphy.com/embed/WIQ0N0OUvei1OW1h9Z" width="100"/>
-</div>
-
 <div id="header" style="width:100%;height:0;padding-bottom:100%;position:relative;">
   <iframe src="https://giphy.com/embed/WIQ0N0OUvei1OW1h9Z" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
     
