@@ -1,10 +1,3 @@
-
-<div id="header" style="width:100%;height:0;padding-bottom:100%;position:relative;">
-  <iframe src="https://giphy.com/embed/WIQ0N0OUvei1OW1h9Z" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
-    
-  </iframe></div>
-  <p><a href="https://giphy.com/stickers/pudgypenguins-work-computer-working-WIQ0N0OUvei1OW1h9Z"></a></p>
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/shubhrika-maurya">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
