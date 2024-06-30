@@ -14,7 +14,7 @@
 
 🔭 About Me:
 - 🌱 Exploring perception, machine learning and perception-based planning in robotics
-- 📫 View my Portfolio : <a href="URL_REDIRECT" src="https://mushu1x.github.io/index.html#cta" height="100" /> Portfolio </a>
+- 📫 View my Portfolio : <a href="https://mushu1x.github.io/index.html#cta" src="" height="100" /> Portfolio </a>
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: When not working, you can find me watching anime or reading fiction
 
